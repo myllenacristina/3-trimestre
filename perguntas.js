@@ -20,3 +20,9 @@ criacartao(
 "O que é uma função?",
 "Uma função é um bloco de código que executa alguma tarefa"
 )
+function criacartao(categoria, pergunta, resposta){
+let container = document.getElementById('container')
+let cartao = document.createElement('article')
+cartao.className = 'cartao'
+}
+   
