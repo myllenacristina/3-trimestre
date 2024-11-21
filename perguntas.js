@@ -25,4 +25,9 @@ let container = document.getElementById('container')
 let cartao = document.createElement('article')
 cartao.className = 'cartao'
 }
+criacartao(
+    "Língua Inglesa",
+"Como se diz oi em Inglês?",
+"Oi em inglês se diz HI (RAI)"
+)
    
